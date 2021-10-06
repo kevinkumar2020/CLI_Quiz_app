@@ -52,6 +52,7 @@ var checkAnswer = () => {
                 }
             }else{
                 console.log(red("\nWrong Choice, Please try again"));
+                repeat();
             }
         });
     }else{
