@@ -6,7 +6,8 @@ const Questions = [
         b : "js is the Client Side Language.",
         c : "js is both Server Side and Client Side Language.",
         d : "None of the above.",
-        ans : "a"
+        ans : "a",
+        note : "a is the correct option. Node.js is Server Side Language."
     },
     {
         no : 2,
@@ -15,7 +16,8 @@ const Questions = [
         b : "REPL stands for 'Research Eval Program Learn.'",
         c : "REPL stands for 'Read Earn Point Learn.'",
         d : "REPL stands for 'Read Eval Point Loop.'",
-        ans : "a"
+        ans : "a",
+        note : "a is the correct option. REPL stands for 'Read Eval Print Loop'."
     },
     {
         no : 3,
@@ -24,7 +26,8 @@ const Questions = [
         b : "The callback is an asynchronous equivalent for a function.",
         c : "Both of the above.",
         d : "None of the above.",
-        ans : "b"
+        ans : "b",
+        note : "b is the correct option. The callback is an asynchronous equivalent for a function."
     },
     {
         no : 4,
@@ -33,7 +36,8 @@ const Questions = [
         b : "C",
         c : "C++",
         d : "All of the above",
-        ans : "d"
+        ans : "d",
+        note : "d is the correct option. Node.js is a cross-platform, back-end JavaScript runtime environment written in JavaScript, C, C++, and CoffeeScript language."
     },
     {
         no : 5,
@@ -42,7 +46,8 @@ const Questions = [
         b : "$ node install express",
         c : "$ install express",
         d : "None of the above",
-        ans : "a"
+        ans : "a",
+        note : "A is the correct option. The $ npm install express command is used to install the Node.js express module."
     },
     {
         no : 6,
@@ -51,7 +56,8 @@ const Questions = [
         b : ".node",
         c : ".java",
         d : ".txt",
-        ans : "a"
+        ans : "a",
+        note : "A is the correct option. The '.js' extension is used to save the Node.js files."
     },
     {
         no : 7,
@@ -60,7 +66,8 @@ const Questions = [
         b : "module",
         c : "exports",
         d : "All of the above",
-        ans : "c"
+        ans : "c",
+        note : "C is the correct option. The Node.js modules can be exposed using module.exports."
     },
     {
         no : 8,
@@ -69,7 +76,8 @@ const Questions = [
         b : "https",
         c : "dgram",
         d : "fsread",
-        ans : "d"
+        ans : "d",
+        note : "d is the correct option. The 'fsread' is not a built-in node module."
     },
     {
         no : 9,
@@ -78,7 +86,8 @@ const Questions = [
         b : "fs.stat(path, callback)",
         c : "fs.readFile(path, flags[, mode], callback)",
         d : "None of the above.",
-        ans : "b"
+        ans : "b",
+        note : "b is the correct option. The fs.stat(path, callback) method is used to get information about a file."
     },
     {
         no : 10,
@@ -87,7 +96,8 @@ const Questions = [
         b : "File System",
         c : "File Store",
         d : "File Sharing",
-        ans : "b"
+        ans : "b",
+        note : "b is the correct option. The fs module stands for File System."
     }
 ];
 
